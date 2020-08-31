@@ -1,0 +1,267 @@
+Safeco Field
+AL
+AT&T Park   
+680
+Target Field   
+1390
+Rogers Center   
+2070
+#
+AT&T Park  
+NL
+Dodger Stadium  
+340
+Chase Field   
+650
+Safeco Field   
+680
+#
+Dodger Stadium  
+NL
+PETCO Park   
+110
+AT&T Park   
+340
+Target Field   
+1500
+#
+PETCO Park  
+NL
+Dodger Stadium   
+110
+Chase Field   
+300
+Coors Field   
+830
+# 
+Chase Field  
+NL
+PETCO Park   
+300
+Coors Field   
+580
+AT&T Park   
+650
+Rangers Ballpark   
+870
+Minute Maid Park   
+1115
+# 
+Coors Field  
+NL
+Kauffman Stadium   
+560
+Chase Field   
+580
+Rangers Ballpark   
+650
+PETCO Park   
+830
+# 
+Kauffman Stadium  
+AL
+Busch Stadium   
+235
+US Cellular Field   
+415
+Rangers Ballpark   
+460
+Coors Field   
+560
+# 
+Busch Stadium  
+NL
+Kauffman Stadium   
+235
+Great American Ballpark   
+310
+Target Field   
+465
+Minute Maid Park   
+680
+# 
+Great American Ballpark  
+NL
+Progressive Field   
+225
+US Cellular Field   
+250
+PNC Park   
+260
+Busch Stadium   
+310
+Turner Field   
+375
+Tropicana Field   
+790
+#
+Progressive Field  
+AL
+Comerica Park   
+90
+PNC Park   
+115
+Great American Ballpark   
+225
+# 
+Comerica Park  
+AL
+Progressive Field   
+90
+Rogers Center   
+210
+US Cellular Field   
+240
+# 
+Rogers Center  
+AL
+Comerica Park   
+210
+PNC Park   
+225
+Miller Park   
+430
+Fenway Park   
+430
+Safeco Field   
+2070
+#
+PNC Park  
+NL
+Progressive Field   
+115
+Nationals Park   
+195
+Rogers Center   
+225
+Great American Ballpark   
+260
+Yankee Stadium   
+315
+# 
+Citizens Bank Park  
+NL
+Yankee Stadium   
+80
+Nationals Park   
+90
+# 
+Yankee Stadium  
+AL
+Citizens Bank Park   
+80
+Fenway Park   
+195
+PNC Park   
+315
+# 
+Fenway Park  
+AL
+Yankee Stadium   
+195
+Rogers Center   
+430
+Marlins Park   
+1255
+# 
+Marlins Park  
+NL
+Tropicana Field   
+210
+Turner Field   
+600
+Nationals Park   
+930
+Minute Maid Park   
+965
+Fenway Park   
+1255
+# 
+Tropicana Field  
+AL
+Marlins Park   
+210
+Great American Ballpark   
+790
+Minute Maid Park   
+790
+# 
+Minute Maid Park  
+AL
+Rangers Ballpark   
+230
+Busch Stadium   
+680
+Tropicana Field   
+790
+Marlins Park   
+965
+Chase Field   
+1115
+# 
+Rangers Ballpark  
+AL
+Minute Maid Park   
+230
+Kauffman Stadium   
+460
+Coors Field   
+650
+Turner Field   
+740
+Chase Field   
+870
+# 
+Turner Field  
+NL
+Great American Ballpark   
+375
+Nationals Park   
+560
+Marlins Park   
+600
+Rangers Ballpark   
+740
+# 
+Miller Park  
+NL
+US Cellular Field   
+80
+Target Field   
+300
+Rogers Center   
+430
+# 
+Target Field  
+AL
+Miller Park   
+300
+Busch Stadium   
+465
+Safeco Field   
+1390
+Dodger Stadium   
+1500
+# 
+US Cellular Field  
+AL
+Miller Park   
+80
+Comerica Park   
+240
+Great American Ballpark   
+250
+Kauffman Stadium   
+415
+# 
+Nationals Park  
+NL
+Citizens Bank Park   
+90
+PNC Park   
+195
+Turner Field   
+560
+Marlins Park   
+930
+#

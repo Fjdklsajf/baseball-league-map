@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>states_map.png</file>
+        <file>Star_icon_stylized.svg.png</file>
+        <file>map_input.txt</file>
+        <file>stadium_input.txt</file>
+        <file>souvenir_input.txt</file>
+        <file>baseball-1-featured-2.png</file>
+        <file>Major_League_Baseball_team_locations (1).png</file>
+        <file>6758011_preview.png</file>
+    </qresource>
+</RCC>

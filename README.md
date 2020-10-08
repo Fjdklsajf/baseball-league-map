@@ -7,7 +7,7 @@ This program contains information on baseball teams and stadiums and their corre
 Each team has a name, league (American/National), and a list of souvenirs.
 Each stadium has a name, address, seat capacity, grass condition, date opened, and the team using it.
 This program provides a variety of functions to baseball fans to plan their trip to different stadiums.
-*Note: not all stadiums are interconnected; a path only exist between some neihboring stadiums.
+*Note: not all stadiums are interconnected; a path only exist between some neiboring stadiums.
 
 #### Functions:
 * **Plan trips**: display the shortest path available to all selected stadiums.
